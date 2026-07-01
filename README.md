@@ -5,4 +5,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0607-sales-person](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0607-sales-person) |
+| [0619-biggest-single-number](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
