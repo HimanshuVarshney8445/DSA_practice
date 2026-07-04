@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3895-count-digit-appearances](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3895-count-digit-appearances) |
+## String
+|  |
+| ------- |
+| [2785-sort-vowels-in-a-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2785-sort-vowels-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [2785-sort-vowels-in-a-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2785-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
