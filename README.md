@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0289-game-of-life) |
 | [1389-create-target-array-in-the-given-order](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1389-create-target-array-in-the-given-order) |
 | [3819-rotate-non-negative-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3819-rotate-non-negative-elements) |
 | [3895-count-digit-appearances](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3895-count-digit-appearances) |
@@ -31,6 +32,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0289-game-of-life) |
 | [1389-create-target-array-in-the-given-order](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1389-create-target-array-in-the-given-order) |
 | [3819-rotate-non-negative-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3819-rotate-non-negative-elements) |
+## Matrix
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
