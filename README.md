@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 | [1288-remove-covered-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1288-remove-covered-intervals) |
 | [1389-create-target-array-in-the-given-order](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1389-create-target-array-in-the-given-order) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3819-rotate-non-negative-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3819-rotate-non-negative-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3895-count-digit-appearances](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3895-count-digit-appearances) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 | [1288-remove-covered-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1288-remove-covered-intervals) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2785-sort-vowels-in-a-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2785-sort-vowels-in-a-string) |
 ## Simulation
 |  |
@@ -55,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0435-non-overlapping-intervals) |
+## Hash Table
+|  |
+| ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2225-find-players-with-zero-or-one-losses) |
+## Counting
+|  |
+| ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 <!---LeetCode Topics End-->
