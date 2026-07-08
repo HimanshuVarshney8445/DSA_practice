@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0178-rank-scores) |
 | [0607-sales-person](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0619-biggest-single-number) |
