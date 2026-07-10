@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3819-rotate-non-negative-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3819-rotate-non-negative-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3895-count-digit-appearances](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3895-count-digit-appearances) |
+| [3909-compare-sums-of-bitonic-parts](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Math
 |  |
 | ------- |
