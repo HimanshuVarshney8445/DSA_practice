@@ -123,10 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0814-binary-tree-pruning](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0814-binary-tree-pruning) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0814-binary-tree-pruning](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0814-binary-tree-pruning) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0814-binary-tree-pruning](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0814-binary-tree-pruning) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Number Theory
 |  |
