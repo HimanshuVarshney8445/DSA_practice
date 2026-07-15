@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0260-single-number-iii) |
 | [0289-game-of-life](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0289-game-of-life) |
 | [0435-non-overlapping-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0435-non-overlapping-intervals) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0593-valid-square](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0593-valid-square) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2427-number-of-common-factors) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Geometry
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
