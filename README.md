@@ -167,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Graph Theory
+|  |
+| ------- |
+| [2924-find-champion-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2924-find-champion-ii) |
 <!---LeetCode Topics End-->
