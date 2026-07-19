@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2326-spiral-matrix-iv) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2786-visit-array-positions-to-maximize-score) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2942-find-words-containing-character) |
 | [3693-climbing-stairs-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3693-climbing-stairs-ii) |
 | [3819-rotate-non-negative-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3819-rotate-non-negative-elements) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Counting
 |  |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2924-find-champion-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2924-find-champion-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 <!---LeetCode Topics End-->
