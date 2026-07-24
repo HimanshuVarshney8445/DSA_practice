@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1331-rank-transform-of-an-array) |
 | [1389-create-target-array-in-the-given-order](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1389-create-target-array-in-the-given-order) |
+| [1436-destination-city](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1436-destination-city) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1463-cherry-pickup-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1463-cherry-pickup-ii) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1535-find-the-winner-of-an-array-game) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1436-destination-city](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1436-destination-city) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2942-find-words-containing-character) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0705-design-hashset) |
 | [1331-rank-transform-of-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1331-rank-transform-of-an-array) |
+| [1436-destination-city](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1436-destination-city) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
