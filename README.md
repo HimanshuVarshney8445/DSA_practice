@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0204-count-primes) |
+| [0343-integer-break](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0343-integer-break) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0593-valid-square](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0343-integer-break](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0343-integer-break) |
 | [0435-non-overlapping-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0518-coin-change-ii) |
 | [1463-cherry-pickup-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1463-cherry-pickup-ii) |
