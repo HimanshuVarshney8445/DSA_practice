@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-group-sold-products-by-the-date](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1527-patients-with-a-condition) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1741-find-total-time-spent-by-each-employee) |
+| [3220-odd-and-even-transactions](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3220-odd-and-even-transactions) |
 | [3475-dna-pattern-recognition](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3475-dna-pattern-recognition) |
 ## Array
 |  |
