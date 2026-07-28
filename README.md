@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0565-array-nesting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0705-design-hashset) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0896-monotonic-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0896-monotonic-array) |
 | [1260-shift-2d-grid](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1288-remove-covered-intervals) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0343-integer-break) |
 | [0435-non-overlapping-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0518-coin-change-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1463-cherry-pickup-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1463-cherry-pickup-ii) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3693-climbing-stairs-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3693-climbing-stairs-ii) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1901-find-a-peak-element-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Tree
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0187-repeated-dna-sequences) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1695-maximum-erasure-value](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1695-maximum-erasure-value) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0187-repeated-dna-sequences) |
 | [0705-design-hashset](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0705-design-hashset) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -251,4 +256,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0187-repeated-dna-sequences) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
