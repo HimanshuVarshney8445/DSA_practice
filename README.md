@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2942-find-words-containing-character](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2942-find-words-containing-character) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3693-climbing-stairs-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3693-climbing-stairs-ii) |
 | [3804-number-of-centered-subarrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3804-number-of-centered-subarrays) |
 | [3819-rotate-non-negative-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3819-rotate-non-negative-elements) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1695-maximum-erasure-value) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Design
 |  |
 | ------- |
