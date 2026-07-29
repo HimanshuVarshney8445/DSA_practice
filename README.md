@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0147-insertion-sort-list](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0147-insertion-sort-list) |
 | [0705-design-hashset](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0705-design-hashset) |
 | [2326-spiral-matrix-iv](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2326-spiral-matrix-iv) |
@@ -192,11 +193,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0814-binary-tree-pruning](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0814-binary-tree-pruning) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0565-array-nesting](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0565-array-nesting) |
 | [0814-binary-tree-pruning](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0814-binary-tree-pruning) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0814-binary-tree-pruning](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0814-binary-tree-pruning) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Number Theory
@@ -260,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0187-repeated-dna-sequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
