@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1463-cherry-pickup-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1476-subrectangle-queries](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1476-subrectangle-queries) |
 | [1528-shuffle-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1528-shuffle-string) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1695-maximum-erasure-value](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1695-maximum-erasure-value) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1463-cherry-pickup-ii) |
+| [1476-subrectangle-queries](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1476-subrectangle-queries) |
 | [1901-find-a-peak-element-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1901-find-a-peak-element-ii) |
 | [2326-spiral-matrix-iv](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2326-spiral-matrix-iv) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0705-design-hashset) |
+| [1476-subrectangle-queries](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1476-subrectangle-queries) |
 ## Hash Function
 |  |
 | ------- |
