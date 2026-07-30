@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0260-single-number-iii) |
 | [0289-game-of-life](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0289-game-of-life) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0187-repeated-dna-sequences) |
 | [1436-destination-city](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1528-shuffle-string) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0147-insertion-sort-list) |
+| [0179-largest-number](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1288-remove-covered-intervals) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
