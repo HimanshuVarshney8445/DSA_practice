@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2785-sort-vowels-in-a-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2785-sort-vowels-in-a-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-minimum-index-of-a-valid-split](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3804-number-of-centered-subarrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3804-number-of-centered-subarrays) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Counting
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2404-most-frequent-even-element](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2404-most-frequent-even-element) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Linked List
 |  |
