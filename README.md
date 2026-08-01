@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2404-most-frequent-even-element](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2404-most-frequent-even-element) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2786-visit-array-positions-to-maximize-score) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2404-most-frequent-even-element](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2404-most-frequent-even-element) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2799-count-complete-subarrays-in-an-array) |
