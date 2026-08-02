@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2404-most-frequent-even-element](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2404-most-frequent-even-element) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2427-number-of-common-factors](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2427-number-of-common-factors) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2404-most-frequent-even-element](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2404-most-frequent-even-element) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2404-most-frequent-even-element](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2404-most-frequent-even-element) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Linked List
