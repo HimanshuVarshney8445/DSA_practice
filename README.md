@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0593-valid-square](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1025-divisor-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1025-divisor-game) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1025-divisor-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1025-divisor-game) |
 | [1463-cherry-pickup-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1463-cherry-pickup-ii) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3693-climbing-stairs-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3693-climbing-stairs-ii) |
@@ -382,10 +384,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1025-divisor-game) |
 | [3828-final-element-after-subarray-deletions](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3828-final-element-after-subarray-deletions) |
 ## Game Theory
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1025-divisor-game) |
 | [3828-final-element-after-subarray-deletions](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3828-final-element-after-subarray-deletions) |
 ## String Matching
 |  |
@@ -401,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1980-find-unique-binary-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1980-find-unique-binary-string) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3955-valid-binary-strings-with-cost-limit) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
