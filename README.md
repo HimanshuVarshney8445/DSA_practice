@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1980-find-unique-binary-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1980-find-unique-binary-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2405-optimal-partition-of-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2405-optimal-partition-of-string) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1695-maximum-erasure-value) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1980-find-unique-binary-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1980-find-unique-binary-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2404-most-frequent-even-element](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2404-most-frequent-even-element) |
