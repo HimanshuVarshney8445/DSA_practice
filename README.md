@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3169-count-days-without-meetings](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3169-count-days-without-meetings) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3693-climbing-stairs-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3693-climbing-stairs-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3804-number-of-centered-subarrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3804-number-of-centered-subarrays) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3804-number-of-centered-subarrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3804-number-of-centered-subarrays) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
