@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2592-maximize-greatness-of-an-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2592-maximize-greatness-of-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2592-maximize-greatness-of-an-array) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2785-sort-vowels-in-a-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2785-sort-vowels-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1901-find-a-peak-element-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 ## Binary Tree
 |  |
 | ------- |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
