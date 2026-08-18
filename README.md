@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3456-find-special-substring-of-length-k](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3456-find-special-substring-of-length-k) |
 | [3713-longest-balanced-substring-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3713-longest-balanced-substring-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Sorting
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2453-destroy-sequential-targets](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2453-destroy-sequential-targets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3713-longest-balanced-substring-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3843-first-element-with-unique-frequency](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3843-first-element-with-unique-frequency) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Linked List
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Recursion
 |  |
 | ------- |
