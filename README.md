@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3804-number-of-centered-subarrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3804-number-of-centered-subarrays) |
 | [3819-rotate-non-negative-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3819-rotate-non-negative-elements) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3169-count-days-without-meetings](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3169-count-days-without-meetings) |
 | [3536-maximum-product-of-two-digits](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
