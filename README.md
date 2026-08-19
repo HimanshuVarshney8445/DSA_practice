@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3169-count-days-without-meetings](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3169-count-days-without-meetings) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3693-climbing-stairs-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3719-longest-balanced-subarray-i) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3169-count-days-without-meetings](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3169-count-days-without-meetings) |
 | [3536-maximum-product-of-two-digits](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3842-toggle-light-bulbs) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2592-maximize-greatness-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Hash Table
 |  |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3713-longest-balanced-substring-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3719-longest-balanced-subarray-i) |
