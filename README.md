@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2942-find-words-containing-character](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2942-find-words-containing-character) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3169-count-days-without-meetings](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3169-count-days-without-meetings) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-minimum-index-of-a-valid-split](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3713-longest-balanced-substring-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3713-longest-balanced-substring-i) |
