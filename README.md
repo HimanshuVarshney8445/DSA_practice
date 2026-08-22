@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3456-find-special-substring-of-length-k](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3456-find-special-substring-of-length-k) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3713-longest-balanced-substring-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3713-longest-balanced-substring-i) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3713-longest-balanced-substring-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2453-destroy-sequential-targets](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2453-destroy-sequential-targets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3713-longest-balanced-substring-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3713-longest-balanced-substring-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3843-first-element-with-unique-frequency](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3843-first-element-with-unique-frequency) |
