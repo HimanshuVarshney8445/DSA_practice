@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3169-count-days-without-meetings](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3169-count-days-without-meetings) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3446-sort-matrix-by-diagonals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3446-sort-matrix-by-diagonals) |
 | [3523-make-array-non-decreasing](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3523-make-array-non-decreasing) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3719-longest-balanced-subarray-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3364-minimum-positive-sum-subarray) |
 ## Design
 |  |
 | ------- |
