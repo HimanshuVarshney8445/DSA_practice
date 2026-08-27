@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3516-find-closest-person](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3516-find-closest-person) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3340-check-balanced-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3340-check-balanced-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
