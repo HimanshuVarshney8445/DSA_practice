@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0705-design-hashset) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0896-monotonic-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0896-monotonic-array) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [1029-two-city-scheduling](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1029-two-city-scheduling) |
 | [1260-shift-2d-grid](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1260-shift-2d-grid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
