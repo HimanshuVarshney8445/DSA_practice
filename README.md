@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0915-partition-array-into-disjoint-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1029-two-city-scheduling) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1260-shift-2d-grid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1288-remove-covered-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1288-remove-covered-intervals) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0686-repeated-string-match](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0686-repeated-string-match) |
 | [1079-letter-tile-possibilities](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1079-letter-tile-possibilities) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1436-destination-city](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1436-destination-city) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0705-design-hashset](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0705-design-hashset) |
 | [1079-letter-tile-possibilities](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1079-letter-tile-possibilities) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1331-rank-transform-of-an-array) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1079-letter-tile-possibilities](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1079-letter-tile-possibilities) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1394-find-lucky-integer-in-an-array) |
