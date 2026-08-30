@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1029-two-city-scheduling) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1260-shift-2d-grid) |
+| [1268-search-suggestions-system](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1268-search-suggestions-system) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1288-remove-covered-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0686-repeated-string-match) |
 | [1079-letter-tile-possibilities](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1079-letter-tile-possibilities) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1268-search-suggestions-system](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1268-search-suggestions-system) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1436-destination-city](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1436-destination-city) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1029-two-city-scheduling) |
+| [1268-search-suggestions-system](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1329-sort-the-matrix-diagonally](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1329-sort-the-matrix-diagonally) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1268-search-suggestions-system](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1268-search-suggestions-system) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1901-find-a-peak-element-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1901-find-a-peak-element-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1268-search-suggestions-system](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Rolling Hash
 |  |
@@ -581,4 +586,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Trie
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
