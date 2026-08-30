@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3169-count-days-without-meetings](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3169-count-days-without-meetings) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
