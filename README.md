@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3895-count-digit-appearances) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3909-compare-sums-of-bitonic-parts) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Math
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3523-make-array-non-decreasing](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3523-make-array-non-decreasing) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Hash Table
 |  |
 | ------- |
