@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2592-maximize-greatness-of-an-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2683-neighboring-bitwise-xor](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2683-neighboring-bitwise-xor) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2786-visit-array-positions-to-maximize-score) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2683-neighboring-bitwise-xor](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2683-neighboring-bitwise-xor) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3955-valid-binary-strings-with-cost-limit) |
