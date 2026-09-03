@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1341-movie-rating](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1341-movie-rating) |
 | [1484-group-sold-products-by-the-date](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1527-patients-with-a-condition) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1741-find-total-time-spent-by-each-employee) |
