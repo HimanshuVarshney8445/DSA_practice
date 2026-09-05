@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0260-single-number-iii) |
 | [0289-game-of-life](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0289-game-of-life) |
+| [0318-maximum-product-of-word-lengths](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0368-largest-divisible-subset](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0187-repeated-dna-sequences) |
+| [0318-maximum-product-of-word-lengths](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0500-keyboard-row](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0686-repeated-string-match](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0686-repeated-string-match) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0187-repeated-dna-sequences) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0260-single-number-iii) |
+| [0318-maximum-product-of-word-lengths](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
