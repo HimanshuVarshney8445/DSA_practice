@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3021-alice-and-bob-playing-flower-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3345-smallest-divisible-digit-product-i) |
