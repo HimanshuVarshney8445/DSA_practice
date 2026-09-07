@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3280-convert-date-to-binary) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3713-longest-balanced-substring-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3713-longest-balanced-substring-i) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2453-destroy-sequential-targets](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2453-destroy-sequential-targets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3713-longest-balanced-substring-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
