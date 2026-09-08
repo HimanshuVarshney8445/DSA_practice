@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2592-maximize-greatness-of-an-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2670-find-the-distinct-difference-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2670-find-the-distinct-difference-array) |
 | [2683-neighboring-bitwise-xor](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2683-neighboring-bitwise-xor) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2453-destroy-sequential-targets](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2453-destroy-sequential-targets) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2670-find-the-distinct-difference-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2670-find-the-distinct-difference-array) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
