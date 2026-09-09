@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0041-first-missing-positive) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0179-largest-number](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0041-first-missing-positive) |
 | [0187-repeated-dna-sequences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0187-repeated-dna-sequences) |
 | [0500-keyboard-row](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0535-encode-and-decode-tinyurl) |
