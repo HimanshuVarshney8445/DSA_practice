@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0005-longest-palindromic-substring) |
 | [0179-largest-number](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0187-repeated-dna-sequences) |
 | [0318-maximum-product-of-word-lengths](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0318-maximum-product-of-word-lengths) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0005-longest-palindromic-substring) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0343-integer-break](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0343-integer-break) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0005-longest-palindromic-substring) |
 | [0977-squares-of-a-sorted-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -652,4 +655,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
