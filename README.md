@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Number Theory
 |  |
 | ------- |
