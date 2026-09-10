@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1535-find-the-winner-of-an-array-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1695-maximum-erasure-value](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1695-maximum-erasure-value) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
+| [1765-map-of-highest-peak](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1765-map-of-highest-peak) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1901-find-a-peak-element-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1463-cherry-pickup-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1463-cherry-pickup-ii) |
 | [1476-subrectangle-queries](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1476-subrectangle-queries) |
+| [1765-map-of-highest-peak](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1765-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1901-find-a-peak-element-ii) |
 | [2326-spiral-matrix-iv](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2326-spiral-matrix-iv) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1302-deepest-leaves-sum) |
+| [1765-map-of-highest-peak](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1765-map-of-highest-peak) |
 ## Stack
 |  |
 | ------- |
