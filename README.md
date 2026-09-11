@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1528-shuffle-string) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1695-maximum-erasure-value](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1695-maximum-erasure-value) |
+| [1710-maximum-units-on-a-truck](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1710-maximum-units-on-a-truck) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1765-map-of-highest-peak](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1765-map-of-highest-peak) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-rearrange-words-in-a-sentence](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1710-maximum-units-on-a-truck](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1710-maximum-units-on-a-truck) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1710-maximum-units-on-a-truck](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1710-maximum-units-on-a-truck) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2405-optimal-partition-of-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2405-optimal-partition-of-string) |
