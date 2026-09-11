@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0055-jump-game) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0179-largest-number](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0055-jump-game) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0343-integer-break](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0343-integer-break) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 | [1029-two-city-scheduling](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1029-two-city-scheduling) |
