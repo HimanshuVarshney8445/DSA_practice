@@ -576,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0705-design-hashset) |
+| [0933-number-of-recent-calls](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0933-number-of-recent-calls) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1476-subrectangle-queries](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1476-subrectangle-queries) |
 ## Hash Function
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0933-number-of-recent-calls) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
 |  |
@@ -680,4 +682,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0005-longest-palindromic-substring) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
