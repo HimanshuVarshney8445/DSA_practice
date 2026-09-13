@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0686-repeated-string-match) |
 | [0720-longest-word-in-dictionary](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0791-custom-sort-string) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1079-letter-tile-possibilities](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1079-letter-tile-possibilities) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1268-search-suggestions-system](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1268-search-suggestions-system) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0814-binary-tree-pruning](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0814-binary-tree-pruning) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1302-deepest-leaves-sum) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0565-array-nesting](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0565-array-nesting) |
 | [0814-binary-tree-pruning](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0814-binary-tree-pruning) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1302-deepest-leaves-sum) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0814-binary-tree-pruning](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0814-binary-tree-pruning) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1302-deepest-leaves-sum) |
@@ -654,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0988-smallest-string-starting-from-leaf](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1079-letter-tile-possibilities](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1079-letter-tile-possibilities) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1980-find-unique-binary-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1980-find-unique-binary-string) |
