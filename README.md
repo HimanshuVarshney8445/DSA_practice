@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0814-binary-tree-pruning) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0565-array-nesting](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0565-array-nesting) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0814-binary-tree-pruning) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0875-koko-eating-bananas](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1268-search-suggestions-system) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0814-binary-tree-pruning) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
@@ -633,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1302-deepest-leaves-sum) |
 | [1765-map-of-highest-peak](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1765-map-of-highest-peak) |
