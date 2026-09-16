@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1710-maximum-units-on-a-truck) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1765-map-of-highest-peak](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1765-map-of-highest-peak) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1901-find-a-peak-element-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1901-find-a-peak-element-ii) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2427-number-of-common-factors](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2427-number-of-common-factors) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1389-create-target-array-in-the-given-order) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2326-spiral-matrix-iv](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2326-spiral-matrix-iv) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
