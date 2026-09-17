@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-subrectangle-queries](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1476-subrectangle-queries) |
 | [1528-shuffle-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1528-shuffle-string) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1695-maximum-erasure-value](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1695-maximum-erasure-value) |
 | [1710-maximum-units-on-a-truck](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1710-maximum-units-on-a-truck) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1528-shuffle-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1528-shuffle-string) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1710-maximum-units-on-a-truck) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1436-destination-city) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1695-maximum-erasure-value](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1695-maximum-erasure-value) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
