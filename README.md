@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2233-maximum-product-after-k-increments](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2233-maximum-product-after-k-increments) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2326-spiral-matrix-iv](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2326-spiral-matrix-iv) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2233-maximum-product-after-k-increments](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2233-maximum-product-after-k-increments) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2405-optimal-partition-of-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2405-optimal-partition-of-string) |
 | [2592-maximize-greatness-of-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2592-maximize-greatness-of-an-array) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2233-maximum-product-after-k-increments](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2233-maximum-product-after-k-increments) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Rolling Hash
 |  |
