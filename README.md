@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1765-map-of-highest-peak) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1901-find-a-peak-element-ii) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1695-maximum-erasure-value](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1695-maximum-erasure-value) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1980-find-unique-binary-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1980-find-unique-binary-string) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0933-number-of-recent-calls) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1476-subrectangle-queries](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1476-subrectangle-queries) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Hash Function
 |  |
 | ------- |
