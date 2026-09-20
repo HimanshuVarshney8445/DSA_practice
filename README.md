@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3904-smallest-stable-index-ii) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Math
 |  |
 | ------- |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3941-password-strength](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3945-digit-frequency-score) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Counting
 |  |
 | ------- |
