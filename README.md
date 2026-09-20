@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3895-count-digit-appearances) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3945-digit-frequency-score) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## String
 |  |
 | ------- |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3693-climbing-stairs-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3693-climbing-stairs-ii) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Greedy
 |  |
 | ------- |
