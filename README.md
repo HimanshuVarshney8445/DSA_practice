@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2651-calculate-delayed-arrival-time](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2651-calculate-delayed-arrival-time) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [2947-count-beautiful-substrings-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2947-count-beautiful-substrings-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2405-optimal-partition-of-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2942-find-words-containing-character) |
+| [2947-count-beautiful-substrings-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2947-count-beautiful-substrings-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-minimum-index-of-a-valid-split](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2947-count-beautiful-substrings-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2947-count-beautiful-substrings-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2427-number-of-common-factors) |
+| [2947-count-beautiful-substrings-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2947-count-beautiful-substrings-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
@@ -580,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2427-number-of-common-factors) |
+| [2947-count-beautiful-substrings-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2947-count-beautiful-substrings-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -592,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2947-count-beautiful-substrings-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2947-count-beautiful-substrings-i) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3354-make-array-elements-equal-to-zero) |
