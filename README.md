@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0500-keyboard-row](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0535-encode-and-decode-tinyurl) |
+| [0677-map-sum-pairs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0677-map-sum-pairs) |
 | [0686-repeated-string-match](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0686-repeated-string-match) |
 | [0720-longest-word-in-dictionary](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0791-custom-sort-string) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0594-longest-harmonious-subsequence](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0677-map-sum-pairs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0677-map-sum-pairs) |
 | [0705-design-hashset](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0705-design-hashset) |
 | [0720-longest-word-in-dictionary](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0791-custom-sort-string) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0535-encode-and-decode-tinyurl) |
+| [0677-map-sum-pairs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0677-map-sum-pairs) |
 | [0705-design-hashset](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0933-number-of-recent-calls) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -750,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0677-map-sum-pairs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0720-longest-word-in-dictionary) |
 | [1268-search-suggestions-system](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1268-search-suggestions-system) |
 ## Merge Sort
