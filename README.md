@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0814-binary-tree-pruning) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0565-array-nesting](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0565-array-nesting) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0814-binary-tree-pruning) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0814-binary-tree-pruning) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
