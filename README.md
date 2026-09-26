@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2405-optimal-partition-of-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2405-optimal-partition-of-string) |
+| [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2942-find-words-containing-character) |
 | [2947-count-beautiful-substrings-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2947-count-beautiful-substrings-i) |
