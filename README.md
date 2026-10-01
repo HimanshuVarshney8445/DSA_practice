@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3828-final-element-after-subarray-deletions](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3828-final-element-after-subarray-deletions) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3871-count-commas-in-range-ii) |
 | [3895-count-digit-appearances](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3895-count-digit-appearances) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3693-climbing-stairs-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3693-climbing-stairs-ii) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Greedy
 |  |
