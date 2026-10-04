@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0535-encode-and-decode-tinyurl) |
 | [0677-map-sum-pairs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0677-map-sum-pairs) |
+| [0678-valid-parenthesis-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0686-repeated-string-match) |
 | [0720-longest-word-in-dictionary](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0791-custom-sort-string) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1025-divisor-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1025-divisor-game) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0678-valid-parenthesis-string) |
 | [1029-two-city-scheduling](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1029-two-city-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0678-valid-parenthesis-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3523-make-array-non-decreasing](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3523-make-array-non-decreasing) |
@@ -783,4 +787,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0933-number-of-recent-calls) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
