@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1025-divisor-game) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1486-xor-operation-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1486-xor-operation-in-an-array) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1486-xor-operation-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1486-xor-operation-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2683-neighboring-bitwise-xor) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
