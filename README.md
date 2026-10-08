@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3713-longest-balanced-substring-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3798-largest-even-number](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3803-count-residue-prefixes) |
 | [3856-trim-trailing-vowels](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3856-trim-trailing-vowels) |
 | [3941-password-strength](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3941-password-strength) |
