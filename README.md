@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3904-smallest-stable-index-ii) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
+| [3978-unique-middle-element](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3978-unique-middle-element) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Math
 |  |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3843-first-element-with-unique-frequency](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3843-first-element-with-unique-frequency) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+| [3978-unique-middle-element](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3978-unique-middle-element) |
 ## Linked List
 |  |
 | ------- |
