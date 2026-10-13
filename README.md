@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3708-longest-fibonacci-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3708-longest-fibonacci-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3719-longest-balanced-subarray-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3842-toggle-light-bulbs) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3282-reach-end-of-array-with-max-score](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3523-make-array-non-decreasing](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3523-make-array-non-decreasing) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Hash Table
