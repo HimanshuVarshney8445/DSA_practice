@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1029-two-city-scheduling](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1029-two-city-scheduling) |
+| [1037-valid-boomerang](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1037-valid-boomerang) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0836-rectangle-overlap) |
 | [1017-convert-to-base-2](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1017-convert-to-base-2) |
 | [1025-divisor-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1025-divisor-game) |
+| [1037-valid-boomerang](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1037-valid-boomerang) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1486-xor-operation-in-an-array) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0593-valid-square](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0836-rectangle-overlap) |
+| [1037-valid-boomerang](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1037-valid-boomerang) |
 ## Tree
 |  |
 | ------- |
