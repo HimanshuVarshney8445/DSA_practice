@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0057-insert-interval) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0179-largest-number](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
