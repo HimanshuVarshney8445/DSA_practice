@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2012-sum-of-beauty-in-the-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2057-smallest-index-with-equal-value](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2057-smallest-index-with-equal-value) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1710-maximum-units-on-a-truck) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1901-find-a-peak-element-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1901-find-a-peak-element-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 ## Binary Tree
