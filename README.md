@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-maximum-sum-of-an-hourglass](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2453-destroy-sequential-targets](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2453-destroy-sequential-targets) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2592-maximize-greatness-of-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2592-maximize-greatness-of-an-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2453-destroy-sequential-targets](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2453-destroy-sequential-targets) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1901-find-a-peak-element-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 ## Binary Tree
