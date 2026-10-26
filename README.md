@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3523-make-array-non-decreasing](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3523-make-array-non-decreasing) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3693-climbing-stairs-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3693-climbing-stairs-ii) |
 | [3708-longest-fibonacci-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3708-longest-fibonacci-subarray) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2326-spiral-matrix-iv) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3446-sort-matrix-by-diagonals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3446-sort-matrix-by-diagonals) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -749,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1302-deepest-leaves-sum) |
 | [1765-map-of-highest-peak](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1765-map-of-highest-peak) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
@@ -856,4 +860,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0239-sliding-window-maximum) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
