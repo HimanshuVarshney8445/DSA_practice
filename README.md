@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0057-insert-interval) |
+| [0118-pascals-triangle](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0179-largest-number](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0343-integer-break](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0343-integer-break) |
