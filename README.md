@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3523-make-array-non-decreasing](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3523-make-array-non-decreasing) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3665-twisted-mirror-path-count) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3693-climbing-stairs-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3693-climbing-stairs-ii) |
 | [3708-longest-fibonacci-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3708-longest-fibonacci-subarray) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-maximum-sum-of-an-hourglass](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3446-sort-matrix-by-diagonals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3446-sort-matrix-by-diagonals) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3665-twisted-mirror-path-count) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2786-visit-array-positions-to-maximize-score](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
+| [3665-twisted-mirror-path-count](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3693-climbing-stairs-ii) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/4050-minimum-days-to-score-exactly-n-points) |
