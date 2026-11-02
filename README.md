@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0500-keyboard-row](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0593-valid-square](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0836-rectangle-overlap) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0628-maximum-product-of-three-numbers) |
