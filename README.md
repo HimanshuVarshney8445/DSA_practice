@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0791-custom-sort-string) |
 | [0856-score-of-parentheses](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0856-score-of-parentheses) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1021-remove-outermost-parentheses](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1079-letter-tile-possibilities](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1079-letter-tile-possibilities) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1268-search-suggestions-system](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1268-search-suggestions-system) |
@@ -776,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1021-remove-outermost-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3523-make-array-non-decreasing](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3523-make-array-non-decreasing) |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Indexed Tree
 |  |
 | ------- |
