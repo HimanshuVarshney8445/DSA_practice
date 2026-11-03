@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1268-search-suggestions-system](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1268-search-suggestions-system) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1329-sort-the-matrix-diagonally](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1329-sort-the-matrix-diagonally) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0875-koko-eating-bananas](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1268-search-suggestions-system) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
