@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3828-final-element-after-subarray-deletions](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3828-final-element-after-subarray-deletions) |
