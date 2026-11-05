@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0915-partition-array-into-disjoint-intervals](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1029-two-city-scheduling) |
 | [1037-valid-boomerang](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1037-valid-boomerang) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0875-koko-eating-bananas](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
