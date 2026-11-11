@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3828-final-element-after-subarray-deletions](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3828-final-element-after-subarray-deletions) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Hash Table
 |  |
