@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1980-find-unique-binary-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/1980-find-unique-binary-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
