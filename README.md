@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3360-stone-removal-game) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3516-find-closest-person](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3360-stone-removal-game](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3360-stone-removal-game) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3819-rotate-non-negative-elements](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3819-rotate-non-negative-elements) |
 | [3842-toggle-light-bulbs](https://github.com/HimanshuVarshney8445/DSA_practice/tree/master/3842-toggle-light-bulbs) |
